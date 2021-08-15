@@ -98,10 +98,11 @@ public class Search {
                 }
             }
 
+            System.out.println("\n ############### Word List ###############");
             keywordsCount.entrySet().forEach(entry -> {
                 System.out.println(entry.getKey() + " " + entry.getValue());
             });
-
+            System.out.println("\n ############### Word List ###############");
             checkUserWantsToSearchAgain();
 
         } catch (IOException e) {
