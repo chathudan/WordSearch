@@ -11,4 +11,12 @@ search through a directory of files that is able to search for set of unique str
     java -jar WordSearch.jar
     ```
  3. Enter a valid directory path.
- 4. Enter search comma "," separated words. xx: should, good, hello
+     ``` shell script
+    ../SearchData/
+     ```
+ 4. Enter search comma "," separated words. 
+     ```
+    good, bad
+    ```
+ 
+ ![Output](./screens/terminal.png)
