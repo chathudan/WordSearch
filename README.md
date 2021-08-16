@@ -14,7 +14,7 @@ search through a directory of files that is able to search for set of unique str
      ``` shell script
     ../SearchData/
      ```
- 4. Enter search comma "," separated words. 
+ 4. Enter a comma "," separated words to search. 
      ```
     good, bad
     ```
